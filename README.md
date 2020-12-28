@@ -1,8 +1,6 @@
 # 我的博客
 
-> 如果没有机会去大公司，那么在github上认识大牛也是好的。
->
-> 本人能力有限，如文章有误区，先跟大家说声抱歉，欢迎指正。需要学习的还有很多，路还很长。
+> 能力有限，如有误区，先跟大家说声抱歉，欢迎指正。需要学习的还有很多，路还很长。
 >
 > 个人微信：sjn946
 
@@ -13,6 +11,7 @@
 1. [JSONP介绍&使用](https://github.com/nemo-shen/Blog/issues/1)
 
 2. [Array.prototype.slice.call()使用解释](https://github.com/nemo-shen/Blog/issues/2)
+3. [Git中origin/HEAD是什么东西](https://github.com/nemo-shen/Blog/issues/4)
 
 
 
