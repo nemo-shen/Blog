@@ -13,6 +13,9 @@
 3. [Git中origin/HEAD是什么东西](https://github.com/nemo-shen/Blog/issues/4)
 4. [敏捷之旅杭州站2020](https://github.com/nemo-shen/Blog/issues/5)
 
+## 常见问题
+
+1. [webpack5 使用extract-text-webpack-plugin提示TypeError: compiler.plugin is not a function](https://github.com/nemo-shen/Blog/issues/6)
 
 
 
