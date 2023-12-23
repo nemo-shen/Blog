@@ -15,3 +15,5 @@
 2. [缓存淘汰算法--LRU算法](https://zhuanlan.zhihu.com/p/34989978)
 3. [Least frequently used](https://en.wikipedia.org/wiki/Least_frequently_used)
 4. [Cache replacement policies](https://en.wikipedia.org/wiki/Cache_replacement_policies)
+5. [缓存算法（FIFO 、LRU、LFU三种算法的区别） ](https://www.cnblogs.com/hongdada/p/10406902.html)
+
